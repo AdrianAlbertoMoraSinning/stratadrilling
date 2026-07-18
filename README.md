@@ -1,8 +1,4 @@
-# Strata Drilling
-
-Official website of Strata Drilling, a Canadian oil & gas consulting company specializing in drilling fluids engineering, well engineering, wellbore stability, real-time operations, technical advisory and project support.
-
-Founded and led by Carlos Tirado, Principal Consultant with more than 20 years of international experience across Canada, Argentina and Colombia.
+# Carlos Tirado — Drilling Fluids & Well Engineering Consulting Website
 
 Updated website package ready to upload/drag into GitHub under the `WellOilandGas` folder.
 
