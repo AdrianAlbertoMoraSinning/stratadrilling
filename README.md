@@ -1,4 +1,4 @@
-# Carlos Tirado — Drilling Fluids & Well Engineering Consulting Website
+# Strata Drilling - Founded by Carlos Tirado — Drilling Fluids & Well Engineering Consulting Website
 
 Updated website package ready to upload/drag into GitHub under the `WellOilandGas` folder.
 
